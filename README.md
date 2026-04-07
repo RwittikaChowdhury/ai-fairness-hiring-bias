@@ -34,5 +34,8 @@ Bias in hiring systems can lead to discrimination and unfair rejection of qualif
 ## Visualization
 The bar chart highlights the disparity in selection rates between genders.
 
+## Model Transparency
+See MODEL_CARD.md for detailed ethical analysis and risk assessment.
+
 ## Author
 Rwittika Chowdhury
